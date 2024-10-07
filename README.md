@@ -1,2 +1,4 @@
 # Auto-pie-lot
-May be bad, because the creator is a noob.
+This is a first experiment from me. 
+The quality may be bad, because the creator is a noob.
+Please enjoy!
